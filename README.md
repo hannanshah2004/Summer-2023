@@ -1,7 +1,7 @@
 # Summer 2023
 This repository contains Python scripts for simulating and analyzing Agrobacterium-mediated plant transformations, focusing on the efficiency of kanamycin resistance and GUS staining.
 
-## Key Features
+![image](https://github.com/user-attachments/assets/2b0c30e2-395a-4d26-b0a1-bd37b066b1cd)
 
 ### 1. Data Simulation
 `generate_input.py` creates a simulated dataset reflecting realistic experimental conditions:
